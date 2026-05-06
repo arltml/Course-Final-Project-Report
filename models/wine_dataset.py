@@ -1,9 +1,6 @@
 import pandas as pd
 from sklearn.neighbors import KNeighborsClassifier
-<<<<<<< HEAD
-=======
 import statistics
->>>>>>> ce76679 (rearrange structure of code)
 from models.wine_sample import WineSample
 
 class WineDataset:
@@ -90,10 +87,6 @@ class WineDataset:
         #Use dictionary comprehension to calculate the mean for every feature column
         return {
             col: self.df[col].mean()
-<<<<<<< HEAD
-            for col in self.df.columns if col != "target"
-        }
-=======
             for col in self.df.columns
             if col != "target"
         }
@@ -220,4 +213,3 @@ class WineDataset:
             paired.append((i, name, value))
         
         return paired   
->>>>>>> ce76679 (rearrange structure of code)
