@@ -2,7 +2,7 @@
 
 ##Team Members
 Sophia Doumazios, sdoumazi@stevens.edu, 20015171
-Arlette Martinez Lima, amarti10@stevens.edu,
+Arlette Martinez Lima, amarti10@stevens.edu, 20015104
 Ahmed Elshaar, aelshaar@stevens.edu,
 
 ## Project Description
@@ -40,3 +40,11 @@ Course-Final-Project-Report/
 └── tests/
     └── test_wine.py
 ```
+## How to Run
+Install dependencies:
+Step 1: pip install pandas numpy matplotlib sciki-learn pytest
+
+## Contributions
+Sophia Doumazios: Data analysis
+Arlette Martinez Lima: Classes and data handling
+Ahmed Elshaar: 
