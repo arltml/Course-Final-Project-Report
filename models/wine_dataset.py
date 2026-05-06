@@ -1,6 +1,6 @@
 import pandas as pd
 from sklearn.neighbors import KNeighborsClassifier
-from wine_sample import WineSample
+from models.wine_sample import WineSample
 
 class WineDataset:
     """
