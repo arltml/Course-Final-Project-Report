@@ -1,5 +1,4 @@
 import pandas as pd
-
 def load_wine_data(filepath:str):
     """
     Load wine dataset from CSV file
