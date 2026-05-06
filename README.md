@@ -17,7 +17,6 @@ This project analyzes chemical properties of wine samples and predicts wine clas
 -pytest
 
 ##File and Module Structure
-## File and Module Structure
 
 ```text
 Course-Final-Project-Report/
