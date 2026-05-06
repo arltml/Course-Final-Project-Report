@@ -2,8 +2,8 @@
 
 ##Team Members
 Sophia Doumazios, sdoumazi@stevens.edu (ID: 20015171),
-Arlette Martinez Lima, amarti10@stevens.edu, 20015104
-Ahmed Elshaar, aelshaar@stevens.edu,
+Arlette Martinez Lima, amarti10@stevens.edu (ID: 20015104),
+Ahmed Elshaar, aelshaar@stevens.edu (ID: 20011169)
 
 ## Project Description
 This project analyzes chemical properties of wine samples and predicts wine classification using machine learning. The system uses a dataset of chemical attributes such as alcohol content, malic acid, and color intensity to train a classification model. Users can input new wine characteristics and receive a predicted class. The project also includes statistical summaries and data visualizations.
