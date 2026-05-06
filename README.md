@@ -1,7 +1,7 @@
 # Course-Final-Project-Report
 
 ##Team Members
-Sophia Doumazios, sdoumazi@stevens.edu, 20015171
+Sophia Doumazios, sdoumazi@stevens.edu (ID: 20015171),
 Arlette Martinez Lima, amarti10@stevens.edu, 20015104
 Ahmed Elshaar, aelshaar@stevens.edu,
 
