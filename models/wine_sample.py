@@ -6,7 +6,9 @@ class WineSample:
         """
         Initialize a wine sample object
         """
+        #Store chemical feature values for the wine sample
         self.features = features
+        # Store the classification label (wine type)
         self.label = label
         
     def __str__(self):
@@ -16,12 +18,15 @@ class WineSample:
         """
         Comparison of two WineSample objects based on their features.
         """
+        # Ensure comparison is only done between WineSample objects
         if not isinstance(other, WineSample):
             return False
+        # Compare feature dictionaries
         return self.features == other.features
     
     def get_feature_vector(self):
         """
         features are returned as an immutable tuple
         """
+        
         return tuple(self.features.values())
