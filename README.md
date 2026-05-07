@@ -40,11 +40,25 @@ Course-Final-Project-Report/
 └── tests/
     └── test_wine.py
 ```
+
 ## How to Run
-Install dependencies:
-Step 1: Write in terminal "pip install pandas numpy matplotlib sciki-learn pytest"
+Step 1. Install dependencies
+pip install pandas numpy matplotlib scikit-learn pytest
+Step 2. Download the project
+Download the repository as a ZIP from GitHub
+Extract the folder
+Step 3. Open the project
+Open the extracted folder in Visual Studio Code (or any Python IDE)
+Step 4. Launch Jupyter Notebook
+Run the following in terminal:
+python -m notebook
+(or: jupyter notebook if installed directly)
+Step 5. Run the program
+Open main.ipynb (recommended) or dataAnalysis.ipynb
+Run all cells in order from top to bottom
+
 
 ## Contributions
-Sophia Doumazios: Data analysis
-Arlette Martinez Lima: Classes and data handling
-Ahmed Elshaar: 
+Sophia Doumazios: Data analysis, notebook
+Arlette Martinez Lima: Classes and data handling, notebook
+Ahmed Elshaar: Visualization, testing notebook
