@@ -42,7 +42,7 @@ Course-Final-Project-Report/
 ```
 ## How to Run
 Install dependencies:
-Step 1: pip install pandas numpy matplotlib sciki-learn pytest
+Step 1: Write in terminal "pip install pandas numpy matplotlib sciki-learn pytest"
 
 ## Contributions
 Sophia Doumazios: Data analysis
